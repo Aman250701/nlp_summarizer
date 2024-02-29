@@ -1,0 +1,887 @@
+53
+Management’s discussion and analysis
+Oracle Financial Services Software – Annual Report 2014-15
+Management’s discussion and analysis of
+financial condition and results of operations
+Technology trends in the financial services industry
+Banks the world over are facing sweeping changes and are having to deal with disruptive trends. They face uncertain and weak 
+economies in many regions; they have new and non-traditional competitors using innovative technology threatening to take their 
+business away; digitization is catching the imagination of a new generation of customers; and their regulatory environment is getting 
+more demanding.
+The Technology environment today offers more choices than ever before. The Cloud is already proving to be a great leveller by 
+dramatically reducing deployment cost and complexity. Technology advances in the area of big data have the potential to unlock the 
+latent value of the vast storehouse of data that banks own.
+We analyze these trends and what banks the world over are doing to navigate through these interesting and rapidly changing times.
+Banks are custodian to very large amounts of data generated every day. However, in the past their focus was on transaction processing 
+and therefore the data has been fragmented and maintained in silos. In the midst of all the rapid changes within their industry across 
+the world, banks find it difficult to effectively integrate data that did not provide a holistic view of their own business, leave alone 
+their customers. Even though they were in possession of vast and invaluable amounts of data on each customer, the bedrock of a 
+business - the customer and the customer experience - traditionally took a back seat.
+But banks are having to change fast. In a world where financial products and their pricing, reviews and delivery are available at 
+an instant on mobile devices, banks can no more take their customers or their business for granted. Add to this the changing 
+demographic profile of their customers - millennials, who use technology in radically different ways from previous generations. 
+These customers are accustomed to receiving information where it matters and in an instant. When their bank is unable to deliver 
+the experience they are looking for, this mass segment is likely to move on. In the last couple of years, the banks have been under 
+scrutiny by the regulators, and have been ended up paying billions of dollars in fines and penalties. Banks are spending more money, 
+energy and time to keep pace and align to the regulations, both current and evolving.
+It is against this backdrop that banks are now being forced to rethink their technology strategies. The focus is no more on how much 
+information banks possess of their customers, but how intelligently and creatively they can utilize this data to reduce operational 
+expenses, improve wallet share, grow by seizing cross-sell opportunities, comply with every changing laws and regulations, and, 
+most importantly, deliver a highly engaging customer experience.
+Smart banks today are marrying big data and digital technologies to create a unique experience for their customers. The analytics 
+improve the ability to mine the customer data to create relevant offerings while at the same time reducing the risk and cost of 
+reaching the customer. From being positioned as supporting multiple channels, banks are shifting focus to delivering channel 
+agnostic digital experiences that are insight-driven. As the mobile revolution ushers in a new way of thinking, traditional banks are 
+stepping up to offer the complete range of banking products and services. The main goals of the banks are to service customers 
+better, reduce operational costs, increase revenue streams and provide the convenience of "anywhere, anytime, any device" banking.
+Digital remains a significant area of focus for us as our products enable progressive transformation to help banks create a strong 
+digital presence. With the Millennial customer demanding banks are connected with the digital ecosystem, banks needs to reorient 
+themselves to a “customer in” approach that builds sustainable information driven and value centric relationship as opposed to the 
+typical “product out” approach.
+The second major area of disruption we are seeing is the potential of the "Cloud". With the need to commit a large upfront 
+investment eliminated, Cloud offers access to a level playing field for small players to compete effectively with large banks. Even 
+large banks are increasingly adopting Cloud based deployment to better manage their investments. Oracle is a leading provider of 
+Cloud based services including Infrastructure as a Service (IaaS), Platform as a Service (PaaS) and Software as a Service (SaaS). 
+Cloud IT models in banking and financial services have seen rapid adoption. The strategic relationship we have with our customers 
+enables us to provide a significant number of deployment options to them, ranging from SaaS deployment for the Oracle Financial 
+Services Lending and Leasing, Oracle FLEXCUBE on Managed Cloud Services or as a Business Process Service from a certified 
+partner.
+Islamic banking is another area where both conventional and pure play Islamic banks are enhancing their portfolio to offer  
+Shariah-compliant products and services. Oracle FLEXCUBE for Islamic banking platform is market-leading in its ability to offer 
+both conventional and Islamic banking services in a highly flexible, transparent and regulator-compliant manner.
+Oracle FLEXCUBE Investor Services is an important asset in our product portfolio. We have several marquee customers across 
+the world already, and see the recent trends such as the ‘Asian Funds Passport’ as opportunities that will help us expand our 
+footprint further. Moreover, in economically thriving regions of the world the appetite for wealth management solutions and mutual 
+funds is steadily growing.
+Business overview
+Oracle Financial Services Software Limited, majority owned by Oracle, is a world leader in providing IT solutions to the financial 
+services industry. With its experience of delivering value based IT solutions to global financial institutions, Oracle Financial Services 
+Software understands the specific challenges that financial institutions face: the need for building customer intimacy and competitive 
+advantage through cost-effective solutions while, simultaneously, adhering to the stringent demands of a dynamic regulatory 
+environment.
+55
+Our mission is to enable financial institutions to excel through the effective use of information technology. Our dedicated research 
+and development centres excel in innovation by producing world class products that strive to be ahead of the market. We offer 
+financial institutions the world’s most comprehensive and contemporary banking applications and a technology footprint that 
+addresses their complex IT and business requirements.
+Together with Oracle, we offer a comprehensive suite of offerings encompassing retail, corporate, and investment banking, funds, 
+cash management, trade, treasury, payments, lending, private wealth management, asset management, compliance, enterprise risk 
+and business analytics, among others. With a process-driven approach for service-oriented architecture (SOA) deployments, we 
+offer banks the combined benefits of interoperability, extensibility, and standardization. We have a robust cloud offering for our 
+products. We also offer best-of-breed functionality for financial institutions that need to operate flexibly and competitively and 
+respond rapidly to market dynamics in a fiercely challenging business environment.
+We have two major business segments the products business (comprising product licensing, consulting and support) and consulting 
+services (comprising IT application and technology services). We also have a smaller business segment that offers business process 
+outsourcing services to financial institutions.
+These segments are described in detail below:
+Products
+The suite of solutions delivering Digital Experience, Digital Engagement and Data Management
+Oracle Financial Services Software Limited, majority owned by Oracle, is a world leader in providing IT solutions to the financial 
+services industry. With its experience of delivering value based IT solutions to global financial institutions, Oracle Financial Services 
+Software understands the specific challenges that financial institutions face: the need for building customer intimacy and competitive 
+advantage through cost-effective solutions while, simultaneously, adhering to the stringent demands of a dynamic regulatory 
+environment.
+Oracle Banking Platform is a comprehensive suite of business applications for large global banks. Oracle Banking Platform 
+is designed to help banks respond strategically to today’s business challenges and progressively transform their business models 
+and processes, driving productivity improvements across both front and back offices, and reducing operating costs. The solution 
+supports banks as they grow their businesses through new distribution strategies, including multi-brand or white labeling, to tap 
+new markets and enterprise product origination supporting multi-product and packages to drive an increased customer-to-product 
+ratio. Oracle Banking Platform is designed as a native service-oriented architecture (SOA) platform, helping banks implement 
+key enterprise services, deliver on customer centricity, enrich channel capability, drive process improvement and tie it in with 
+their existing applications and technology landscape. Through pre-integrated enterprise applications and the underlying Oracle 
+technology stack, the solution can also help to reduce in-house integration and testing efforts, ultimately, reducing IT costs and 
+improving time-to-market. Oracle Banking Platform provides a comprehensive suite of applications that makes the replacement of 
+core systems viable for large banks, enabling strategic choices as well as providing a high level of flexibility and value.
+Oracle FLEXCUBE is a complete banking product suite for consumer, corporate, investment, private wealth management, 
+consumer lending, asset management and investor servicing, including payments. Oracle FLEXCUBE enables banks to standardize 
+operations across multiple countries, transform their local operations as well as address niche business models like mobile banking, 
+direct banking and Shariah-compliant banking. Financial institutions use Oracle FLEXCUBE to respond faster to market dynamics, 
+define and track processes, while ensuring compliance.
+Oracle FLEXCUBE has received the certification for SWIFT Certified Application Payments Label 2014. The SWIFT Certified 
+Application - Payments label focuses on the certification of core banking or payments applications that enable the initiation, 
+generation, processing, and settlement of interbank payments. This label is awarded to business applications that adhere to a specific 
+set of criteria linked to the support of SWIFT messages, SWIFT connectivity, and SWIFT functionality.
+The latest release of Oracle FLEXCUBE enables banks to comply with FATCA phase II, with capabilities to flag customers and 
+track financial transactions for FATCA compliance. It further builds on the product’s deep corporate banking capability with new 
+features that allow banks to modernize their corporate banking capabilities with support for virtual accounts, corporate credit 
+cards, corporate-to-bank connectivity, and advanced payment features. Corporate customers have easy modes of payment through 
+physical instruments (such as checks, demand draft, and pay order), can get payment advice and balance movement reports, and can 
+authorize transactions on the move from mobile and tablet devices. The platform also supports end-to-end servicing capabilities 
+backed by improved functionality across retail bills, lending, deposits, current and savings accounts, treasury, and payment 
+operations. The solution now also includes a credit appraisal management system to help streamline credit approval and sanction 
+processes.
+The latest release also delivers enhanced business process management capabilities enabled by Oracle FLEXCUBE Universal 
+Banking Process Framework Base. The framework has work-list applications; tools for scoring, evaluation, and auto-decisioning; 
+process enablers; integration adaptors; and factory-shipped process flows that help banks quickly create and maintain processes that 
+can reduce time to market for new products, increase process automation, and improve operational efficiency.
+Oracle FLEXCUBE Direct Banking enables bank to provide a superior digital channel banking experience to its customers. The 
+solution supports seamless flow of information over a user-friendly interface with relevant add-ons like context based service offers, 
+and vide range of relevant information. It also enables banks to deliver a more engaging and context-specific communications 
+based on high-fidelity financial insight and transaction-specific triggers and alerts. Leveraging the mobile technology the solution 
+also supports P2P payment capabilities using email id, mobile no or social media contacts. The solution enables a “customer in” 
+approach to build sustainable, information driven and value centric relationship with the customer as opposed to the typical product 
+out approach currently followed. Bank’s customers can access banking services using a wide range of devices across multiple 
+Oracle Financial Services Software – Annual Report 2014-15
+operating systems and form factors. The solution provides personal financial management capabilities, which help bank’s customers 
+better manage their finances through improved spend analysis, budget management, goal-based savings accounts, and people-like-
+me comparison.
+Oracle FLEXCUBE Enterprise Limits and Collateral Management offers a single source for managing exposure across a 
+business portfolio. It enables centralized collateral management, limits definition, tracking and exposure measurement for effective 
+exposure management and resource utilization.
+Oracle FLEXCUBE Private Banking is a comprehensive solution for private banking. It gives wealth managers a unified view 
+and analyzes of their customers’ wealth across asset classes, and provides the added benefits of performance tracking and improved 
+customer relationship management. The application is a comprehensive, customer centric solution that offers a wealth management 
+portal, a customer interaction tool, and portfolio management capabilities - all of which can be integrated with the existing core 
+banking solutions used by a bank.
+Oracle Financial Services Lending and Leasing Cloud combines the power of Oracle’s comprehensive, industry-leading 
+lending and leasing solution with the simplicity, elasticity and security of Oracle Cloud and empowering lending institutions to grow 
+and improve profitability of their core lending business. The solutions support the complete consumer lending operations and life 
+cycle processing, from origination to servicing and collections- delivering accurate, actionable information from a single data source 
+to help lending institutions make faster and more-informed decisions about loans, reduce risk, effectively manage the loan lifecycle, 
+and manage delinquencies and losses. With an intuitive interface, navigation and context based account and customer sessions help 
+to boost user productivity.
+Oracle FLEXCUBE Investor Servicing is a process enabled transfer agency and investor servicing solution. It helps financial 
+institutions to manage the complete fund lifecycle and reduce operational costs through process automation across fund structures, 
+intermediary hierarchies and investors. The ISO 20022 compliant Oracle FLEXCUBE Investor Servicing ensures enhanced STP 
+processing through support for a wide variety of SWIFTNet Fund messages. With a comprehensive business rules engine for 
+products - hedge funds, mutual funds and investment linked products and fee structures, Oracle FLEXCUBE Investor Servicing 
+allows fund management companies to configure and launch new products rapidly.
+Oracle Financial Services Analytical Applications are a complete and fully integrated portfolio of analytical solutions covering 
+enterprise risk, performance management, regulatory compliance and customer insight. They are built upon a shared analytical 
+infrastructure consisting of a unified financial services data model, shared analytical computations and the industry leading Oracle 
+Business Intelligence platform.
+The suite of applications contains comprehensive set of point solutions that can be integrated to give a holistic view across all 
+analytical applications. Financial institutions need an integrated approach that combines a diverse set of compliance and risk 
+solutions to help them address not only present regulatory needs, but also emerging and future risk and regulatory requirements. 
+The framework is rules driven, and readily adapts to change. Unlike other hard coded solutions, Oracle Financial Services Analytical 
+Applications provide both prebuilt rules, pre-configured quantitative modeling techniques, pattern matching algorithms, highly 
+configurable UI as well as the capability to add and modify them without technical intervention. This flexibility allows financial 
+institutions to easily create custom rules / techniques / UI for their own analytical requirements and to cost effectively address 
+ever changing compliance regulations. Any rule / technique / UI can be viewed and audited for its underlying definition to enable 
+supervisory oversight.
+In addition to pre-configured computing solutions for Risk and Regulatory Compliance, Oracle Financial Services Analytical 
+Applications provide ability to generate highly formatted templates for regulatory reporting submission and e-filing.
+The enterprise modeling capability allows financial institutions to use a variety of third party quantitative modeling languages, 
+including Oracle R Enterprise and Open R to meet the institution’s modeling needs. The framework also provides capability to 
+access data sources other than the relational database, including structured and unstructured data hosted on HDFS - thus providing 
+massively parallel computing architecture and reducing processing time.
+Services
+Oracle Financial Services PrimeSourcing
+We offer an end-to-end consulting partnership, providing comprehensive business and technology solutions that enable financial 
+services enterprises to improve process efficiencies; optimize costs; meet risk and compliance requirements; define IT architecture; 
+and, manage the transformation process. Consulting services are offered in the areas of Digital Transformation, Payments, Analytics, 
+Risk and Compliance, IT architecture, Business process improvement.
+PrimeSourcing value based offerings: With a singular focus on the financial services segment, PrimeSourcing has proven domain 
+expertise across Capital Markets, Private Banking, Wealth Management, Corporate Banking, Payments, Retail Banking & Risk and 
+Compliance. PrimeSourcing’s service offerings cut across all the domains keeping the specific needs of each sector in perspective.
+PrimeSourcing’s Value based offerings are designed to provide specialized solutions for Banking & Financial Services in areas such 
+as Cloud Adoption, Customer Experience, Business Process Management, Enterprise Integration, Business Intelligence, Big Data 
+Analytics, Reporting, Quality Assurance and enabling financial institutions to address their unique needs and leverage technology 
+innovations.
+57
+PrimeSourcing Consulting services: PrimeSourcing offers end-to-end consulting services in the areas of Business & IT consulting 
+and process improvement and transformation, SOA Strategy & Governance, IT Architecture Planning, Product Evaluation & 
+Selection, IT Portfolio Assessment, Program Management, IT architecture and Governance, Quality Consulting.
+PrimeSourcing Application services: PrimeSourcing provides comprehensive customized IT solutions for banking, securities 
+and insurance those encompass the complete lifecycle of an IT application asset from conceptualization to creation and 
+maintenance. This includes the expertise around specialized practice lines like payments, trade finance, business intelligence, CRM, 
+Oracle Technology and Applications and testing; services include ADM Services, Testing, System Integration, implementation and 
+Migration.
+Oracle Product Related services: PrimeSourcing with its extensive knowledge on Oracle Product line also offers Oracle Product 
+related offerings to help customers make the most out of Oracle investments they have made. Our experts help in Process 
+consulting, Application integration, Reporting & Upgrade support across Banking Applications, Risk & Analytical Applications and 
+Enterprise Applications.
+PrimeSourcing Technology services: PrimeSourcing offers expertise in conceptualization, design, evaluation, implementation 
+and management of IT infrastructure for financial institutions under two service lines. First line is of Technology Management 
+Services, covering Data Management, Mainframe Services, Application Deployment, Monitoring & Management and Risk & 
+Security Assessment.
+Oracle Business Process Outsourcing services (BPO)
+Oracle Business Process Outsourcing services (‘BPO’) offering excels in providing cost effective and high quality BPO services 
+ranging from complex back-office work to contact centre services for the banking, capital markets, insurance and asset management 
+domains. This comprehensive ecosystem of BPO services is backed by a mature process and consulting framework. The BPO 
+offerings are ISO 9001 certified for quality management and ISO 27001 certified for information security management.
+Outlook
+Your company is focused on providing technology to the global banking and financial services industry. Through its R&D initiatives, 
+it continually invests in its offerings in order to maintain its leadership position in the market. The portfolio of your company’s 
+offerings strives to deliver the relevant solutions to clients, while protecting their investments for the future.
+The world of banking and finance is fast changing, as explained in other sections of this report. On the heels of the trends sweeping 
+the industry, your company sees significant opportunities arising for the near and far terms. At every point in the lifecycle of a 
+financial transaction - even a potential transaction - your company’s offerings help banks deliver to their clients strategic advice, 
+relevant pricing and other information, instant updates across channels, and, overall, a superior transaction experience. From a 
+bank’s point of view, your company’s technology solutions enable better services, sharper customer insight, relevant information for 
+quicker and better decisions, while enabling operational efficiency and helping in regulatory compliance.
+The Company is well placed to address these opportunities through its comprehensive and modern technology solutions together 
+with world class portfolio of services.
+Internal control systems and their adequacy
+Oracle Financial Services Software group has in place adequate systems for internal control and documented procedures covering 
+all financial and operating functions. These systems are designed to provide reasonable assurance with regard to maintaining proper 
+accounting controls, monitoring economy and efficiency of operations, protecting assets from unauthorized use or losses, and 
+ensuring reliability of financial and operational information. The Group continuously strives to align all its processes and controls 
+with global best practices.
+Analysis of our Consolidated Financial Results
+The following discussion is based on our audited consolidated financial statements, which have been prepared in conformity with 
+accounting principles generally accepted in India and complying in all material respects with the Accounting Standards notified 
+under the section 133 of the Companies Act, 2013 (the ‘Act’), read together with paragraph 7 of the Companies (Accounts) Rules 
+2014.
+The consolidated financial statements are consolidated for Oracle Financial Services Software Group that includes Oracle Financial 
+Services Software Limited (“the Company”), its subsidiaries and associate company (together referred to as “OFSS Group” as 
+described in Note 1 to the consolidated financial statements) (“the Group”) as at March 31, 2015.
+You should read the following discussion of our financial condition and results of operations together with the detailed consolidated 
+Indian GAAP financial statements and the notes to those statements. Our fiscal year ends on March 31 of each year.
+Our total revenues in fiscal 2015 were ` 39,049.05 million, representing an increase of 4% from ` 37,413.21 million in fiscal 2014. 
+Income from operations in fiscal 2015 was ` 14,827.03, representing an increase of 12% from ` 13,277.13 million in fiscal 2014. The 
+profit for the year in fiscal 2015 was ` 11,923.20 million, as against ` 13,593.19 million in fiscal 2014. Our profit margin is at 31% 
+and 36% for the fiscal years 2015 and 2014 respectively. We define profit margins for a particular period as the ratio of profit to 
+total revenues from operations during such period.
+Oracle Financial Services Software – Annual Report 2014-15
+Products business
+(All amounts in ` million)
+Year ended 
+March 31, 2015
+Year ended 
+ March 31, 2014
+Products revenues
+31,814.78
+29,001.49
+Operating expenses
+(17,310.96)
+(16,442.13)
+Income from operations
+14,503.82
+12,559.36
+Operating margin
+46%
+43%
+Products revenues
+As of March 31, 2015, our product revenues were ` 31,814.78 million, an increase of 10% from ` 29,001.49 million during the fiscal 
+year ended March 31, 2014. Product revenues represented 81% and 77% of total revenues for fiscal years ended 2015 and 2014, 
+respectively.
+Our product revenues comprise license fees, professional fees for implementation and enhancement services and annual 
+maintenance contract (Post Contract Support - PCS) fees for our products.
+License fee
+Our standard licensing arrangements for products provide the bank a right to use the product up to a limit on number of users 
+or sites or such other usage metric upon the payment of a license fee. The license fee is a function of a variety of quantitative 
+and qualitative factors, including the number of copies sold, the number of users supported, the number and combination of the 
+modules sold and the number of sites and geographical locations supported. The licenses are perpetual, non-exclusive, personal, 
+non-transferable and royalty free.
+Consulting fee
+Along with licenses for our products, our customers can also optionally avail consulting services related to the implementation 
+of products at their sites, integration with other systems or enhancements to address their specific requirements. The customer is 
+typically charged a service fee on either a fixed price basis or a time and material basis based on the professional efforts incurred and 
+associated out of pocket expenses.
+Annual maintenance contract (PCS) fees
+Customers typically sign an Annual Maintenance Contract with us under which, we provide technical support, maintenance, problem 
+resolution and upgrades for the licensed products. These support agreements typically cover a period of 12 months.
+The revenues generated from license fees and consulting services rendered by us depends on factors such as the number of new 
+customers added, milestones achieved, implementation time, etc. Therefore, such revenues typically vary from year to year. The 
+annual maintenance contracts generate steady revenues and would grow to the extent that new customers are entering a support 
+agreement.
+The percentages of our revenues from these streams are as follows:
+Year ended 
+March 31, 2015
+Year ended 
+March 31, 2014
+License fees
+15%
+10%
+Consulting fees
+57%
+63%
+PCS fees
+29%
+27%
+Total
+100%
+100%
+Operating expenses
+The operating expenses of our product business segment consist of costs attributable to the implementation, enhancement, 
+maintenance and research and development, of our products. These costs primarily consist of compensation expenses for 
+employees, project related travel expenses, professional fees paid to vendors, the cost of application software for internal use, selling 
+and marketing expenses (including commissions payable to our partners), research and development expenses, product advertising 
+and marketing expenses and allocated overhead expenses associated with support functions such as human resources, finance, 
+facilities and infrastructure, IT, and depreciation and amortization. We recognize these expenses as incurred.
+Research and development costs are expensed as incurred. Software product development costs are expensed as incurred unless 
+technical feasibility of project is established, future economic benefits are probable, the Group has an intention and ability to 
+complete and use or sell the software and the cost can be measured reliably. Software product development costs incurred 
+subsequent to the achievement of technological feasibility are not material and are expensed as incurred.
+59
+Services business
+(All amounts in ` million)
+Year ended 
+March 31, 2015
+Year ended 
+March 31, 2014
+Services revenues
+6,192.38
+7,398.28
+Operating expenses
+(5,183.44)
+(5,877.37)
+Income from operations
+1,008.94
+1,520.91
+Operating margin
+16%
+21%
+Services revenues
+Our services revenues represented 16% and 20% of our total revenues for the fiscal year ended March 31, 2015 and  
+March 31, 2014. Our services revenues were ` 6,192.38 million in the fiscal year ended March 31, 2015, representing a decrease of 16% from  
+` 7,398.28 million in the fiscal year ended March 31, 2014.
+The contracts relating to our services business are either time or material contracts or fixed price contracts. The percentage of 
+total services revenues from time and material contracts was 73% in fiscal 2015 and 72% in fiscal 2014, with the remainder of our 
+services revenues attributable to fixed price contracts.
+We render services through offshore centres located in India, onsite teams operating at our customers’ premises and our on-site 
+centres located in other parts of the world. Offshore services revenues consists of revenues from work conducted at our centres in 
+India and for Indian customers at their locations. Onsite revenues consist of work conducted at customer premises outside India 
+and our centres outside India. The composition of our onsite and offshore revenues is determined by the project lifecycle. Typically, 
+the work involving the design of new systems or relating to a system rollout would be conducted onsite, while the core software 
+development, maintenance and support activity may be conducted offshore. We received 40% and 41% of our services revenues 
+from onsite work and 60% and 59% from offshore work during the fiscal years 2015 and 2014 respectively.
+Operating expenses
+The operating expenses of our services business segment consist of costs attributable to the compensation expenses for employees, 
+project related travel expenses, professional fees paid to vendors, the cost of application software for internal use, selling and 
+marketing expenses, marketing expenses and allocated overhead expenses associated with support functions such as human 
+resources, finance, facilities and infrastructure, IT, and depreciation and amortization.
+We recognize these costs as incurred.
+Business Process Outsourcing (BPO) services business
+(All amounts in ` million)
+Year ended 
+March 31, 2015
+Year ended 
+March 31, 2014
+Revenues
+1,041.89
+1,013.44
+Operating Expenses
+(720.59)
+(647.24)
+Income from operations
+321.30
+366.20
+Operating margin
+31%
+36%
+Business Process Outsourcing (BPO) services revenues
+Our BPO services revenues represented 3% of our total revenues for both the fiscal years ended March 31, 2015 and 2014. Our 
+BPO services revenues were ` 1,041.89 million in the fiscal year ended March 31, 2015, an increase of 3% from ` 1,013.44 million 
+in the fiscal year ended March 31, 2014.
+Operating expenses
+The operating expenses for BPO Services consist primarily of compensation expenses for our employees, travel expenses, 
+professional fees paid to vendors, facilities related expenses, corporate overheads and depreciation. We recognize these costs as 
+incurred.
+Oracle Financial Services Software – Annual Report 2014-15
+Geographic breakup of revenues
+Our overall revenues continue to be well diversified. The following table represents the percentage breakup of our revenues for our 
+products and services business by region:
+Year ended March 31, 2015
+Year ended March 31, 2014
+Products 
+Revenues
+Services 
+Revenues
+Total 
+Revenues
+Products 
+Revenues
+Services 
+Revenues
+Total 
+Revenues
+Americas (NAMER)
+28%
+61%
+34%
+30%
+59%
+36%
+Europe, Middle East, Africa (EMEA)
+37%
+26%
+35%
+36%
+26%
+34%
+Asia Pacific (JAPAC)
+35%
+13%
+31%
+34%
+15%
+30%
+Total
+100%
+100%
+100%
+100%
+100%
+100%
+Customer concentration
+Our business depends on our relationships with a large number of customers. Our revenue from our top ten customers, as a 
+percentage of our total revenues is at 37% for fiscal 2015 as against 40% for fiscal year 2014. The top ten customers in our services 
+business contributed 67% of the total services revenues, and the top ten customers in our products business, contributed 39% of 
+the total products revenues during fiscal 2015. It may be pertinent to note that the constituents of the customers forming part of the 
+top 10% list could vary from year to year, especially in our Products business.
+Products Revenues
+Services Revenues
+Total Revenues
+2015
+2014
+2015
+2014
+2015
+2014
+Largest customer
+14%
+16%
+12%
+10%
+11%
+13%
+Top 5 customers
+32%
+34%
+43%
+44%
+29%
+30%
+Top 10 customers
+39%
+41%
+67%
+66%
+37%
+40%
+Trade receivables
+Trade receivables as of fiscal March 31, 2015 and 2014 were ` 6,016.21 million and ` 6,807.44 million respectively. Our days sales 
+outstanding (which is the ratio of sundry debtors to total sales in a particular year multiplied by 365) for fiscal 2015 and 2014 were 
+approximately 51 and 66 respectively. The Group periodically reviews its trade receivables outstanding as well as the ageing, quality 
+of the trade receivables, customer relationship and the history of the client. The following table represents the ageing of our trade 
+receivables:
+Ageing in days
+Year ended 
+March 31, 2015
+Year ended 
+March 31, 2014
+0-180
+96%
+93%
+More than 180
+4%
+7%
+Total
+100%
+100%
+Foreign currency and treasury operations
+A substantial portion of our revenues is generated in foreign currencies while a majority of our expenses are incurred in Indian 
+Rupees (INR), with the remaining expenses are incurred in US Dollars (USD), Euro (EUR), Australian Dollars (AUD), British 
+Pounds (GBP), and other foreign currencies where our operations are there.
+Our philosophy for treasury operations is conservative and we invest surplus funds predominantly in time deposits with well-known 
+and highly rated Indian and foreign banks. We have extensive internal controls over asset management; including cash management 
+operations, credit management and debt collection.
+We maintain funds mainly in USD, EUR, GBP, JPY, SGD and CNY currencies in bank accounts or in deposits based on 
+comparative exchange rates, interest rates and currency requirements. The Group books forward covers from time to time in line 
+with its treasury management philosophy.
+Comparison of fiscal 2015 with fiscal 2014
+Revenues from operations
+Our total revenues in the fiscal year ended March 31, 2015 were ` 39,049.05 million, an increase of 4% over our total revenues of  
+` 37,413.21 million in the fiscal year ended March 31, 2014. The increase in revenues was primarily attributable to an increase in the 
+revenues from our products business.
+Products revenues
+Our products revenues in the fiscal year ended March 31, 2015 were ` 31,814.78 million, an increase of 10% over our products 
+revenues of ` 29,001.49 million in the fiscal year ended March 31, 2014 on the strength of large customer wins in JAPAC and 
+EMEA. The revenues from license fees comprised 15% of the revenues, implementation and customization fees comprised 57% 
+and Annual Maintenance Contracts comprised 29% of the revenues for the fiscal 2015.
+61
+Services revenues
+Our services revenues represented 16% and 20% of our total revenues for the fiscal year ended March 31, 2015 and March 31, 2014. 
+Our services revenues were ` 6,192.38 million in the fiscal year ended March 31, 2015, a decrease of 16% from ` 7,398.28 million in 
+the fiscal year ended March 31, 2014. Revenues from time and material contracts comprised 73% of the services revenues and fixed 
+price contracts comprised 27% for the fiscal 2015.
+Business Process Outsourcing (BPO) revenues
+Our revenues from BPO services in the fiscal year ended March 31, 2015 were ` 1,041.89 million, increase of 3% over our revenues 
+from BPO services of ` 1,013.44 million in the fiscal year ended March 31, 2014.
+Other income, net
+Our other income in the fiscal year ended March 31, 2015, was ` 3,481.34 million, as compared to ` 6,736.48 million in the fiscal 
+year ended March 31, 2014. The lower interest income on Bank deposits of ` 1,052.62 million on account of lower surplus cash 
+balance along with lower interest rates and net increase in foreign exchange loss of ` 2,314.84 million have primarily attributed to 
+overall decrease of ` 3,255.14 million in other income.
+Expenses
+Employee costs
+Our employee costs increased by 0.4% to ` 18,479.02 million in the fiscal year ended March 31, 2015 from ` 18,404.78 million in the 
+fiscal year ended March 31, 2014. Employee costs relate to salaries and bonuses paid to employees.
+Travel related Expenses (Net of recoveries)
+Our travel related expenditure decreased by 4% to ` 1,343.44 million in the fiscal year ended March 31, 2015 from ` 1,405.81 
+million in the fiscal year ended March 31, 2014. The overall travel expenses represents 3% and 4% of revenue from operations for 
+the fiscal year ended March 31, 2015 and March 31, 2014 respectively.
+Professional fees
+Our professional fees related expenditure decreased by 5% to ` 1,718.66 million in the fiscal year ended March 31, 2015 from  
+` 1,818.33 million in the fiscal year ended March 31, 2014. The overall professional fees represents 4% and 5% of revenue from 
+operations for the year ended March 31, 2015 and March 31, 2014 respectively. Professional fees include services hired from 
+external consultants for various projects.
+Other expenses
+Our other expenditure increased by 12% to ` 1,999.98 million in the fiscal year ended March 31, 2015 from ` 1,790.44 million in 
+the fiscal year ended March 31, 2014. The other expenses represent 4% and 5% of revenue from operations for the years ended  
+March 31, 2015 and 2014 respectively. Other expenses primarily consist of Corporate Social Responsibility expenditure, various 
+facilities costs, application software, communication and other miscellaneous expenses.
+Depreciation and amortization
+Our Depreciation and amortization charge for the year was ` 680.92 million and ` 716.72 million for the year ended March 31, 2015 
+and March 31, 2014 respectively representing 2% of revenues from operations for both the years ended March 31, 2015 and 2014.
+Exceptional item
+There are no exceptional items reported during the years ended March 31, 2015 and March 31, 2014.
+Income taxes
+Our provision for income taxes in the fiscal year ended March 31, 2015 was ` 6,385.17 million, a decrease of 1% over our provision 
+for income taxes of ` 6,420.42 million in the fiscal year ended March 31, 2014. Our effective tax rate was 35% in the fiscal year 
+ended March 31, 2015 compared to 32% in the fiscal year ended March 31, 2014.
+Income taxes also include foreign taxes representing income taxes payable overseas by us in various countries.
+Profit for the year
+As a result of the foregoing factors, net profit has decreased by 12% to ` 11,923.20 million in fiscal 2015 from ` 13,593.19 million in 
+fiscal 2014. Our net profit margin has reduced to 31% for the fiscal year 2015 as against 36% in the fiscal year 2014. We define net 
+profit margins for a particular period as the ratio of profit for the year to revenue from operations during such period.
+Liquidity and capital resources
+Our capital requirement relate primarily to financing the growth of our business. We have historically financed the majority of our 
+working capital, capital expenditure and other requirements through our operating cash flow. During fiscal 2015 and 2014, we 
+generated cash from operations of ` 10,603.91 million and ` 6,732.12 million respectively.
+Oracle Financial Services Software – Annual Report 2014-15
+We are a zero debt company. We expect that our primary financing requirements in the future will be capital expenditure and 
+working capital requirements in connection with the expansion of our business. We believe that the cash generated from operations 
+will be sufficient to satisfy our currently foreseeable capital expenditure and working capital requirements.
+Human capital
+We recruit graduates from leading engineering and management institutions. We also hire functional experts from the financial 
+services industry. The blend of functional knowledge and technical expertise, coupled with in-house training and real–life, 
+experiences in working with financial institutions make our employees unique. We enjoy cordial relationships with our employees 
+and endeavor to give them an excellent, professionally rewarding and enriching work environment. We operate an effective 
+performance management system, with a focus on employee development. This measures key result areas, competencies and 
+training requirements ensuring all-round employee development.
+Our employee headcount at the end of the fiscal year ended March 2015 was 8,928 as compared to the employee headcount as on 
+March 2014 at 9,220.
+Risks and concerns
+Our primary market risk exposures are due to the following:
+-  
+Foreign exchange rate fluctuations
+-  
+Fluctuations in interest rates.
+As of March 31, 2015, we had Cash and Bank Balances of ` 35,638.25 million out of which ` 29,759.76 million was in interest 
+bearing bank deposits. Consequently, we face an exposure on account of fluctuation in interest rates. These funds were mainly 
+invested in bank deposits of longer maturity (more than 90 days, but, under 360 days).
+A substantial portion of our revenues is generated in foreign currencies while a majority of our expenses are incurred in Indian 
+Rupees and the balance in US Dollars, British Pounds, Chinese Yuan, Singapore Dollars, Euro and other currencies. Our functional 
+currency for Indian operations and consolidated financials is the Indian Rupee. We expect that the majority of our revenues will 
+continue to be generated in foreign currencies for the foreseeable future and a significant portion of our expenses, including 
+personnel costs and capital and operating expenditure, to continue to be incurred in Indian Rupees.
+In addition, we face normal business risks such as global competition and country risks pertaining to countries that we operate in.
+Analysis of our Unconsolidated Financial Results
+The following discussion is based on our audited unconsolidated financial statements, which have been prepared in conformity 
+with accounting principles generally accepted in India and complying in all material respects with the Accounting Standards notified 
+under section 133 of the Companies Act, 2013 (the ‘Act’), read together with paragraph 7 of the Companies (Accounts) Rules 2014.
+You should read the following discussion of our financial condition and results of operations together with the detailed 
+unconsolidated Indian GAAP financial statements and the notes to those statements. Our fiscal year ends on March 31 of each year.
+Our total revenues in fiscal 2015 were ` 33,410.95 million, representing an increase of 6% from ` 31,594.68 million in fiscal 2014. 
+Income from operations in fiscal 2015 were ` 12,377.30, representing an increase of 12% from ` 11,098.89 million in fiscal 2014. 
+The net income in fiscal 2015 was ` 10,580.20 million, against ` 11,483.62 million in fiscal 2014. Our net income margin in fiscal 
+2015 is at 32% as against 36% in fiscal 2014. We define income margins for a particular period as the ratio of profit for the year to 
+revenue from operations during such period.
+Products business
+(All amounts in ` million)
+Year ended 
+March 31, 2015
+Year ended 
+March 31, 2014
+Product revenues
+27,084.10
+24,426.47
+Operating expenses
+(15,120.67)
+(14,059.20)
+Income from operations
+11,963.43
+10,367.27
+Operating margin
+44%
+42%
+Products revenues
+As of March 31, 2015, our product revenues were ` 27,084.10 million, an increase of 11% from ` 24,426.47 million during the fiscal 
+year ended March 31, 2014. Product revenues represented 81% and 77% of total revenues for fiscal years ended 2015 and 2014 
+respectively.
+Our products revenues comprises of license fees, professional fees for implementation and enhancement services and annual 
+maintenance contract (Post Contract Support - PCS) fees for our products.
+63
+License fee
+Our standard licensing arrangements for products provide the bank a right to use the product up to a limit on number of users 
+or sites or such other usage metric upon the payment of a license fee. The license fee is a function of a variety of quantitative 
+and qualitative factors, including the number of copies sold, the number of users supported, the number and combination of the 
+modules sold and the number of sites and geographical locations supported. The licenses are perpetual, non-exclusive, personal, 
+non transferable and royalty free.
+Consulting fee
+Along with licenses for our products, our customers can also optionally avail consulting services related to the implementation 
+of products at their sites, integration with other systems or enhancements to address their specific requirements. The customer is 
+typically charged a service fee on either a fixed price basis or a time and material basis based on the professional efforts incurred and 
+associated out of pocket expenses.
+Annual maintenance contract (PCS) fees
+Customers typically sign an Annual Maintenance Contract with us under which, we provides technical support, maintenance, 
+problem resolution and upgrades for the licensed products. These support agreements generally cover a period of 12 months.
+The revenues generated from license fees and consulting services rendered by us depend on factors such as the number of new 
+customers added, milestones achieved, implementation time, etc. Therefore, such revenues typically vary from year to year. The 
+annual maintenance contracts generate steady revenues and would grow to the extent that new customers are entering into a support 
+agreement.
+The percentages of our revenues from these streams are as follows:
+Year ended 
+March 31, 2015
+Year ended 
+March 31, 2014
+License fees
+14%
+10%
+Consulting fees
+59%
+63%
+PCS fees
+27%
+27%
+Total
+100%
+100%
+Operating expenses
+The operating expenses of our product business segment consist of costs attributable to the implementation, enhancement, 
+maintenance and research and development of our products. These costs primarily consist of compensation expenses for employees, 
+project related travel expenses, professional fees paid to vendors, the cost of application software for internal use, selling and 
+marketing expenses (including commission payable to our partners) , research and development expenses, product advertising and 
+marketing expenses and allocated overhead expenses associated with support functions such as human resources, finance, facilities 
+and infrastructure expenses, IT and depreciation and amortization. We recognize these expenses as incurred.
+Research and development costs are expensed as incurred. Software product development costs are expensed as incurred unless 
+technical feasibility of project is established, future economic benefits are probable, the Group has an intention and ability to 
+complete and use or sell the software and the cost can be measured reliably. Software product development costs incurred 
+subsequent to the achievement of technological feasibility are not material and are expensed as incurred.
+Services business
+(All amounts in ` million)
+Year ended 
+March 31, 2015
+Year ended 
+March 31, 2014
+Services revenues
+6,326.85
+7,168.21
+Operating expenses
+(5,213.93)
+(5,717.99)
+Income from operations
+1,112.92
+1,450.22
+Operating margin
+18%
+20%
+Services revenues
+Our services revenues represented 19% and 23% of our total revenues for the fiscal year ended March 31, 2015 and 2014 
+respectively. Our services revenues were ` 6,326.85 million in the fiscal year ended March 31, 2015 and ` 7,168.21 million in the 
+fiscal year ended March 31, 2014.
+The contracts relating to our services business are either time or material contracts or fixed price contracts. The percentage of 
+total services revenues from time and material contracts was 76% in fiscal 2015 and 74% in fiscal 2014, with the remainder of our 
+services revenues attributable to fixed price contracts.
+We render services through offshore centres located in India, onsite teams operating at our customers’ premises and our on-site 
+centres located in other parts of the world. Offshore services revenues consists of revenues from work conducted at our centres in 
+India and for Indian customers at their locations. Onsite revenues consist of work conducted at customer premises outside India 
+Oracle Financial Services Software – Annual Report 2014-15
+and our centres outside India. The composition of our onsite and offshore revenues is determined by the project lifecycle. Typically, 
+the work involving the design of new systems or relating to a system rollout would be conducted onsite, while the core software 
+development, maintenance and support activity may be conducted offshore. We received 42% our services revenues from onsite 
+work and 58% from offshore work during the fiscal years 2015 as against 43%and 57% respectively in the fiscal year 2014.
+Operating expenses
+The operating expenses of our services business segment consist of costs attributable to the compensation expenses for employees, 
+project related travel expenses, professional fees paid to vendors, the cost of application software for internal use, selling and 
+marketing expenses, marketing expenses and allocated overhead expenses associated with support functions such as human 
+resources, finance, facilities and infrastructure, IT, and depreciation and amortization. We recognize these costs as incurred.
+Geographic breakup of revenues
+Our overall revenues continue to be well diversified. The following table represents the percentage breakup of our revenues for our 
+products and services business by region:
+Year ended March 31, 2015
+Year ended March 31, 2014
+Products 
+Revenues
+Services 
+Revenues
+Total 
+Revenues
+Products 
+Revenues
+Services 
+Revenues
+Total 
+Revenues
+Americas (NAMER)
+27%
+59%
+33%
+27%
+55%
+33%
+Europe, Middle East, Africa (EMEA)
+38%
+28%
+36%
+39%
+28%
+37%
+Asia Pacific (JAPAC)
+35%
+13%
+31%
+34%
+17%
+30%
+Total
+100%
+100%
+100%
+100%
+100%
+100%
+Customer concentration
+Our business depends on our relationships with a large number of customers. Our revenues from our top ten customers, as a 
+percentage of our total revenues are at 38% and 40% for fiscal 2015 and 2014 respectively. The top ten customers in our services 
+business contributed 70% of the total services revenues and the top ten customers in our products business, contributed 40% of the 
+total products revenues during fiscal 2015. It may be pertinent to note that the constituents of the customers forming part of the top 
+10% list could vary from year to year, especially in our Products business.
+The percentage of total revenues during fiscal years 2015 and 2014 that we derived from our largest customer, largest five customers 
+and largest ten customers is provided in the accompanying table.
+Products Revenues
+Services Revenues
+Total Revenues
+2015
+2014
+2015
+2014
+2015
+2014
+Largest customer
+13%
+16%
+12%
+10%
+11%
+12%
+Top 5 customers
+32%
+34%
+45%
+42%
+29%
+30%
+Top 10 customers
+40%
+42%
+70%
+66%
+38%
+40%
+Trade receivables
+Trade receivables as of fiscal March 31, 2015 and 2014 were ` 6,910.80 million and ` 11,569.95 million respectively. Our days sales 
+outstanding (which is the ratio of Trade receivables to total revenue from operations in a particular year multiplied by 365) for fiscal 
+2015 and 2014 were approximately 76 and 134 respectively. The Company periodically reviews its trade receivables outstanding as 
+well as the aging, quality of the trade receivables, customer relationship and history of the client. The following table represents the 
+ageing of our trade receivables:
+Ageing in days
+Year ended 
+March 31, 2015
+Year ended 
+March 31, 2014
+0-180
+81%
+73%
+More than 180
+19%
+27%
+Total
+100%
+100%
+Foreign currency and treasury operations
+A substantial portion of our revenues is generated in foreign currencies while a majority of our expenses are incurred in Indian 
+Rupees (INR), with the remaining expenses are incurred in various currencies mainly in US Dollars (USD), Euro (EUR), Australian 
+Dollars (AUD), British Pounds (GBP) and other foreign currencies where our operations are there.
+Our philosophy for treasury operations is conservative and we invest surplus funds predominantly in time deposits with well-known 
+and highly rated Indian and foreign banks. We have extensive internal controls over asset management, including cash management 
+operations, credit management and debt collection.
+We maintain funds mainly in USD, EUR, GBP, and INR currencies in bank accounts or in deposits based on comparative exchange 
+rates, interest rates and currency requirements. The Group books forward covers from time to time in line with its treasury 
+management philosophy.
+65
+Comparison of fiscal 2015 with fiscal 2014
+Revenues from operations
+Our total revenues from operations in the fiscal year ended March 31, 2015, were ` 33,410.95 million, an increase of 6% over our 
+total revenues of ` 31,594.68 million in the fiscal year ended March 31, 2014. The increase in revenues was primarily attributable to 
+an increase in the revenues from our products business.
+Products revenues
+Our products revenues in the fiscal year ended March 31, 2015, stood at ` 27,084.10 million, an increase of 11% over our products 
+revenues of ` 24,426.47 million in the fiscal year ended March 31, 2014 on the strength of large customer wins in JAPAC and 
+USA. The revenues from license fees comprised 14% of the revenues, implementation and customization fees comprised 59%, and 
+Annual Maintenance Contracts comprised 27% of the revenues for the fiscal 2015.
+Services revenues
+Our services revenues represented 19% and 23% of our total revenues in the fiscal year 2015 and 2014. Our services revenues were 
+` 6,326.85 million in the fiscal year ended March 31, 2015. Revenues from time and material contracts comprised 76% of services 
+revenues and fixed price contracts comprised 24% for the fiscal 2015.
+Other income, net
+Our other income in the fiscal year ended March 31, 2015, was ` 3,758.99 million, as compared to ` 6,209.16 million in the fiscal 
+year ended March 31, 2014. The lower interest income on Bank deposits of ` 1,066.99 million on account of lower surplus cash 
+balance along with lower interest rates and net increase in foreign exchange loss of ` 1,367.67 million have primarily attributed to 
+overall decrease of ` 2,450.17 million in other income.
+Expenses
+Employee costs
+Our employee costs increased by 1% to ` 15,973.70 million in the fiscal year ended March 31, 2015 from ` 15,762.32 million in the 
+fiscal year ended March 31, 2014. Employee costs relate to salaries and bonuses paid to employees in India and at overseas.
+Travel related expenses (net of recoveries)
+Our travel related expenditure reduced by 3% to ` 1,073.84 million in the fiscal year ended March 31, 2015 from ` 1,112.61 million 
+in the fiscal year ended March 31, 2014. The overall travel expenses represents 3% and 4% of Revenue from operations for the year 
+ended March 31, 2015 and 2014 respectively.
+Professional fees
+Our professional fees related expenditure was ` 1,867.07 million in the fiscal year ended March 31, 2015 as against ` 1,708.12 million 
+in the fiscal year ended March 31, 2014. The overall professional fees represent around 6% and 5% of Revenue from operations 
+for the year ended March 31, 2015 and 2014 respectively. Professional fees include services hired from subsidiaries and that from 
+external consultants for various projects.
+Other expenses
+Our other expenditure increased by 17% to ` 1,484.67 million in the fiscal year ended March 31, 2015 from ` 1,269.28 million 
+in the fiscal year ended March 31, 2014. The other expenses represent 4% of Revenue from operations for the year ended  
+March 31, 2015 and 2014. Other expenses primarily consist of Corporate Social Responsibility expenditure, various facilities costs, 
+application software, communication and other miscellaneous expenses.
+Depreciation and amortization
+Our Depreciation and amortization charge for the year was ` 634.37 million and ` 643.46 million for the year ended March 31, 2015 
+and 2014 respectively representing 2% of revenues from operations.
+Income taxes
+Our provision for income tax in the fiscal year ended March 31, 2015, was ` 5,556.09 million as against ` 5,824.43 million 
+in the fiscal year ended March 31, 2014. Our effective tax rate was 34% for both the fiscal years ended March 31, 2015 and  
+March 31, 2014.
+Income taxes also include foreign taxes representing income taxes payable overseas by the Company in various countries.
+Profit for the year
+As a result of the foregoing factors, net profit for the year ended March 31, 2015 is ` 10,580.20 million as against ` 11,483.62 million 
+during the year ended March 31, 2014. Our net profit margin was 32% for the fiscal year 2015 as against 36% in the fiscal year 2014. 
+We define net profit margins for a particular period as the ratio of net profit for the year to revenue from operations during such 
+period.
+Oracle Financial Services Software – Annual Report 2014-15
+Liquidity and capital resources
+Our capital requirement relate primarily to financing the growth of our business. We have historically financed the majority of 
+our working capital, capital expenditure and other requirements through our operating cash flow. During fiscal 2015 and 2014 we 
+generated cash from operations of ` 9,743.53 million and ` 6,277.72 million respectively.
+We are a zero debt company. We expect that our primary financing requirements in the future will be capital expenditure and 
+working capital requirements in connection with the expansion of our business. We believe that the cash generated from operations 
+will be sufficient to satisfy our currently foreseeable capital expenditure and working capital requirements.
+Human capital
+We recruit graduates from leading engineering and management institutions. We also hire functional experts from the banking 
+industry. The blend of functional knowledge and technical expertise, coupled with in-house training and real life, experiences in 
+working with financial institutions make our employees unique. We enjoy cordial relationships with our employees and endeavor to 
+give them an excellent, professionally rewarding and enriching work environment. We operate an effective performance management 
+system, with a focus on employee development. This measures key result areas, competencies and training requirements ensuring 
+all-round employee development.
+Our employee headcount at the end of the fiscal year ended March 2015 was 7,151 as compared to the employee headcount as on 
+March 2014 at 7,306.
+Risks and concerns
+Our primary market risk exposures are due to the following:
+- 
+Foreign exchange rate fluctuations
+- 
+Fluctuations in interest rates
+As of March 31, 2015, we had Cash and Bank Balances of ` 30,154.06 million, out of which ` 29,245.14 million was in interest 
+bearing bank deposits. Consequently, we face an exposure on account of fluctuation in interest rates. These funds were mainly 
+invested in bank deposits of longer maturity (more than 90 days and under 360 days).
+A substantial portion of our revenues is generated in foreign currencies, while a majority of our expenses are incurred in Indian 
+Rupees and the balance in US Dollars, Australian Dollars, British Pound, Euro and other currencies. Our functional currency 
+for Indian operations is the Indian Rupee. We expect that the majority of our revenues will continue to be generated in foreign 
+currencies for the foreseeable future and a significant portion of our expenses, including personnel costs and capital and operating 
+expenditure, to continue to be incurred in Indian Rupees.
+In addition, we face normal business risks such as global competition and country risks pertaining to countries that we operate in.
