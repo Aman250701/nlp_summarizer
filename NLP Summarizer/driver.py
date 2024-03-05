@@ -113,8 +113,8 @@ def summarize_and_save(row, text_column="text", filename_column="filename"):
     splitted_name = filename.split('_')
     company_name = splitted_name[0]
     summary_filename = f"{filename[:-4]}_summary.txt"
-    os.makedirs(f"annual_reports/{company_name}/Summary", exist_ok=True)
-    with open(f"annual_reports/{company_name}/Summary/{summary_filename}", "w") as f:
+    os.makedirs(f"Generated_Summary/{company_name}", exist_ok=True)
+    with open(f"Generated_Summary/{company_name}/{summary_filename}", "w") as f:
         print(f"Saving summary in {company_name} as {summary_filename} ")
         f.write(summary)
     
